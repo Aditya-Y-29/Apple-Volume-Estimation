@@ -30,7 +30,7 @@ The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and
 
 ![Plot Title](Assets/Approach_1_Actual_vs_Predicted_Volume.png)
 
-![Plot Title](Assets/Approach_1_Frequency_Plot_of_Absolute_Error.png)
+<img src="Assets/Approach_1_Frequency_Plot_of_Absolute_Error.png" alt="Image 1" width="600" height ="400"/> 
 
 ### Apporach 2
 
@@ -40,7 +40,7 @@ Additionally, every possible combination of features is tested to determine the 
 
 #### Comparing SVMR Kernel Types
 
-![Plot_Title](Assests/Approach_2_rmse_vs_kernal.png) ![Plot_title](Assests/Approach_2_mpe_vs_kernal.png)
+<img src="Assets/Approach_2_rmse_vs_kernal.png" alt="Image 1" width="430" height ="400"/> <img src="Assets/Approach_2_mpe_vs_kernal.png" alt="Image 1" width="430" height ="400"/> 
 
 When employing the feature set including semi-major axis, semi-minor axis, perimeter, and eccentricity, the linear kernel achieves the most favorable outcomes. Subsequently, the following results are presented.
 
@@ -54,7 +54,7 @@ When employing the feature set including semi-major axis, semi-minor axis, perim
 
 ![Plot Title](Assets/Approach_2_Actual_vs_Predicted_Volume.png)
 
-![Plot Title](Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png)
+<img src="Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png" alt="Image 1" width="600" height ="500"/> 
 
 ## Usage
 
