@@ -40,7 +40,7 @@ Additionally, every possible combination of features is tested to determine the 
 
 #### Comparing SVMR Kernel Types
 
-<img src="Assets/Approach_2_rmse_vs_kernal.png" alt="Image 1" width="430" height ="400"/> <img src="Assets/Approach_2_mpe_vs_kernal.png" alt="Image 1" width="430" height ="400"/> 
+<img src="Assets/Approach_2_rmse_vs_kernal.png" alt="Image 1" width="400" height ="400"/> <img src="Assets/Approach_2_mpe_vs_kernal.png" alt="Image 1" width="400" height ="400"/> 
 
 When employing the feature set including semi-major axis, semi-minor axis, perimeter, and eccentricity, the linear kernel achieves the most favorable outcomes. Subsequently, the following results are presented.
 
