@@ -30,12 +30,31 @@ The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and
 
 ![Plot Title](Assets/Approach_1_Actual_vs_Predicted_Volume.png)
 
-![Plot Title](Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png)
+![Plot Title](Assets/Approach_1_Frequency_Plot_of_Absolute_Error.png)
 
 ### Apporach 2
 
-This approach encompasses employing the support vector machine regression (SVMR) modeling technique to develop a model for estimating the volume of fruit samples based on ellipse parameters. It also involves exploring various kernels and analyzing their performance to compare their effectiveness.
+The approach entails employing the support vector machine regression (SVMR) modeling technique to develop a model for estimating the volume of apple samples based on fitted ellipse parameters. It also involves exploring various kernels and analyzing their performance to compare their effectiveness.
 
+Additionally, every possible combination of features is tested to determine the best features, dropping the results. The kernels used include linear, polynomial, rbf, maxtern, exponential, quadratic exponential, and rational quadratic.
+
+#### Comparing SVMR Kernel Types
+
+![Plot_Title](Assests/Approach_2_rmse_vs_kernal.png) ![Plot_title](Assests/Approach_2_mpe_vs_kernal.png)
+
+When employing the feature set including semi-major axis, semi-minor axis, perimeter, and eccentricity, the linear kernel achieves the most favorable outcomes. Subsequently, the following results are presented.
+
+#### Results 
+
+- Root Mean Squared Error (RMSE): 13.055
+- Mean Squared Error (MSE): 170.438
+- Mean Percentage Error (MPE): 6.721
+
+#### Plots
+
+![Plot Title](Assets/Approach_2_Actual_vs_Predicted_Volume.png)
+
+![Plot Title](Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png)
 
 ## Usage
 
