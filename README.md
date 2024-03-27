@@ -46,9 +46,9 @@ When employing the feature set including semi-major axis, semi-minor axis, perim
 
 #### Results 
 
-- Root Mean Squared Error (RMSE): 13.055
-- Mean Squared Error (MSE): 170.438
-- Mean Percentage Error (MPE): 6.721
+- Root Mean Squared Error (RMSE): 16.631
+- Mean Squared Error (MSE): 279.198
+- Mean Percentage Error (MPE): 9.016
 
 #### Plots
 
