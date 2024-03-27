@@ -22,9 +22,9 @@ The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and
 
 #### Results 
 
-- Mean Squared Error (MSE): 351.79
-- Root Mean Squared Error (RMSE): 18.76
-- Mean Percentage Error (MPE): 9.35%
+- Mean Squared Error (MSE): 369.81
+- Root Mean Squared Error (RMSE): 19.23
+- Mean Percentage Error (MPE): 9.21%
 
 #### Plots
 
